@@ -1,1 +1,4 @@
-# C-
+# Starting
+```
+dotnet new project
+```
