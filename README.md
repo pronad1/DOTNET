@@ -1,4 +1,5 @@
 # Starting
+# Showing list
 ```
-dotnet new project
+dotnet new list
 ```
