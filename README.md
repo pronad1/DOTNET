@@ -3,3 +3,23 @@
 ```
 dotnet new list
 ```
+# Make a Project Such as
+```
+ dotnet new console --name helloworld
+```
+Director this folder
+```
+cd helloworld
+```
+# Build this project
+```
+ dotnet build helloworld.csproj
+```
+# Director the bin folder
+```
+ cd  bin\Debug\net10.0
+```
+# Run .exe file
+```
+.\helloworld.exe
+```
