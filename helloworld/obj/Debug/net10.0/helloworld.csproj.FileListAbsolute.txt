@@ -1,0 +1,15 @@
+D:\Languages\DOTNET\helloworld\bin\Debug\net10.0\helloworld.exe
+D:\Languages\DOTNET\helloworld\bin\Debug\net10.0\helloworld.deps.json
+D:\Languages\DOTNET\helloworld\bin\Debug\net10.0\helloworld.runtimeconfig.json
+D:\Languages\DOTNET\helloworld\bin\Debug\net10.0\helloworld.dll
+D:\Languages\DOTNET\helloworld\bin\Debug\net10.0\helloworld.pdb
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.AssemblyInfoInputs.cache
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.AssemblyInfo.cs
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.csproj.CoreCompileInputs.cache
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.sourcelink.json
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.dll
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\refint\helloworld.dll
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.pdb
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\helloworld.genruntimeconfig.cache
+D:\Languages\DOTNET\helloworld\obj\Debug\net10.0\ref\helloworld.dll
