@@ -23,3 +23,18 @@ cd helloworld
 ```
 .\helloworld.exe
 ```
+helloworld.csproj
+```
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+```
