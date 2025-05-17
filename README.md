@@ -7,6 +7,21 @@ dotnet new list
 ```
  dotnet new console --name helloworld
 ```
+helloworld.csproj
+```
+using System;
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}
+```
 Director this folder
 ```
 cd helloworld
@@ -22,19 +37,4 @@ cd helloworld
 # Run .exe file
 ```
 .\helloworld.exe
-```
-helloworld.csproj
-```
-using System;
-
-namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
 ```
