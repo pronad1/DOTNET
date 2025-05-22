@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|d:\\level-2, semester-ii\\system_sessional\\inventorysystem\\inventorysystem1.0\\inventorysystem1.0\\frmliststockout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|solutionrelative:inventorysystem1.0\\frmliststockout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|solutionrelative:InventorySystem1.0\\frmLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|solutionrelative:InventorySystem1.0\\frmReport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmReport.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA97507A-5B5D-495E-9A8A-7948598FCB78}|InventorySystem1.0\\InventorySystem1.0.csproj|solutionrelative:InventorySystem1.0\\frmReport.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmListStockout.cs",
+              "DocumentMoniker": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmListStockout.cs",
+              "RelativeDocumentMoniker": "InventorySystem1.0\\frmListStockout.cs",
+              "ToolTip": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmListStockout.cs",
+              "RelativeToolTip": "InventorySystem1.0\\frmListStockout.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvxsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:29:46.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmLogin.cs",
+              "RelativeDocumentMoniker": "InventorySystem1.0\\frmLogin.cs",
+              "ToolTip": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmLogin.cs",
+              "RelativeToolTip": "InventorySystem1.0\\frmLogin.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAEwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:29:28.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmReport.cs",
+              "DocumentMoniker": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmReport.cs",
+              "RelativeDocumentMoniker": "InventorySystem1.0\\frmReport.cs",
+              "ToolTip": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmReport.cs",
+              "RelativeToolTip": "InventorySystem1.0\\frmReport.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAASwI8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:28:31.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReport.Designer.cs",
+              "DocumentMoniker": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmReport.Designer.cs",
+              "RelativeDocumentMoniker": "InventorySystem1.0\\frmReport.Designer.cs",
+              "ToolTip": "D:\\LEVEL-2, SEMESTER-II\\system_sessional\\inventorysystem\\inventorysystem1.0\\InventorySystem1.0\\frmReport.Designer.cs",
+              "RelativeToolTip": "InventorySystem1.0\\frmReport.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:28:22.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

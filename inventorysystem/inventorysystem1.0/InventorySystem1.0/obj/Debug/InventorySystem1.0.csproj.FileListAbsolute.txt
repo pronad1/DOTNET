@@ -1,0 +1,384 @@
+c:\users\win10\documents\visual studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe.config
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.pdb
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.Form1.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.Properties.Resources.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.GenerateResource.Cache
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.exe
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.pdb
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\MySql.Data.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\MySql.Data.xml
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmItems.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmStockOut.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmListStockout.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmReturn.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmListReturned.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmUsers.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\FlashControlV71.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\bin\Debug\stdole.dll
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmReport.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmLogin.resources
+C:\Users\Win10\Documents\Visual Studio 2015\Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmSettings.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.AssemblyReference.cache
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.Form1.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmItems.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmListReturned.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmListStockout.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmLogin.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmReport.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmReturn.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmSettings.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmStockOut.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmUsers.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.Properties.Resources.resources
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.GenerateResource.cache
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.CoreCompileInputs.cache
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe.config
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.pdb
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\MySql.Data.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Buffers.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.IO.Pipelines.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Memory.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ZstdSharp.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.pdb
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\MySql.Data.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Buffers.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.IO.Pipelines.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Memory.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\Inventor.AA6AEC42.Up2Date
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.exe
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.pdb
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.exe.config
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\log4net.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\log4net.xml
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.Web.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+C:\Users\prose\OneDrive\Desktop\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe.config
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.pdb
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\BouncyCastle.Cryptography.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Shared.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Web.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\log4net.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\MySql.Data.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Buffers.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.IO.Pipelines.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Memory.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Numerics.Vectors.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ZstdSharp.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\BouncyCastle.Cryptography.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.pdb
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Google.Protobuf.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\log4net.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\MySql.Data.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Buffers.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.IO.Pipelines.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Memory.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Numerics.Vectors.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.Web.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.AssemblyReference.cache
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.exe.config
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.Form1.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmItems.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmListReturned.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmListStockout.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmLogin.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmReport.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmReturn.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmSettings.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmStockOut.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.frmUsers.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1._0.Properties.Resources.resources
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.GenerateResource.cache
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.CoreCompileInputs.cache
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\Inventor.AA6AEC42.Up2Date
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.exe
+D:\LEVEL-2, SEMESTER-II\system_sessional\inventorysystem\inventorysystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.pdb
