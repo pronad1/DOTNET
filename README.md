@@ -32,6 +32,7 @@ cd helloworld
 ```
 # Director the bin folder
 ```
+
  cd  bin\Debug\net10.0
 ```
 # Run .exe file
