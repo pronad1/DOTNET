@@ -1,4 +1,4 @@
-# Starting
+# Starting with cmd
 # Showing list
 ```
 dotnet new list
